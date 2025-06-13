@@ -1,0 +1,12 @@
+data/
+include/
+lib/
+lib64/
+share/
+pyvenv.cfg
+__pycache__/
+bin/
+etc/
+vocab/
+checkpoints/
+.gradio/

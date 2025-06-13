@@ -1,0 +1,14 @@
+matplotlib
+numpy
+nltk
+torchvision
+torch
+albumentations
+tqdm
+Pillow
+timm
+gradio
+transformers
+fastapi
+uvicorn
+scikit-learn
